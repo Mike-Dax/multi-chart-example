@@ -45,6 +45,7 @@
     "@babel/preset-env": "^7.1.0",
     "@blueprintjs/core": "^3.50.4",
     "@blueprintjs/icons": "^3.30.2",
+    "@blueprintjs/popover2": "^2.1.17",
     "@blueprintjs/select": "^3.18.6",
     "@electricui/async-utilities": "0.9.5",
     "@electricui/build-tools": "0.11.5",
